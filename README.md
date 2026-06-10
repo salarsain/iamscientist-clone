@@ -1,8 +1,7 @@
 # iamscientist.ai — Landing Page Clone
 
 ## Live Demo
-[View Deployed Site](https://YOUR-LINK.vercel.app)
-
+[https://iamscientist-clone-tau.vercel.app]
 ## Tech Stack
 - **React 18** with Vite
 - **Tailwind CSS** for styling
